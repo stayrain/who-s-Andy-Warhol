@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+main{
+  width:500px;
+}
+
+.s{
+  font-size: 15px;
+  color: blueviolet;
+  font-weight: 10px;
+  background-color: black;
+}
+
+.img{
+  opacity: 60%;
+  background-color: black;
+}

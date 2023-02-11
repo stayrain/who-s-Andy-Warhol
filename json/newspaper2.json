@@ -1,0 +1,67 @@
+{
+   "newspaper": [
+        {
+            "name": "Star-Gazette",
+            "page": "6",
+            "location": "Elmira, New York",
+            "date": "Sunday, June 30, 1968",
+            "image": "https://img.newspapers.com/img/img?institutionId=0&user=13497765&id=276215948&clippingId=38456315&width=557&height=2285&crop=176_160_1788_7472&rotation=0"
+        },
+        {
+            "name": "The Post-Star",
+            "page": "12",
+            "location": "Glens Falls, New York",
+            "date": "Tuesday, May 30, 1989",
+            "image": "https://img.newspapers.com/img/img?institutionId=0&user=13497765&id=347333558&clippingId=118282118&width=557&height=419&crop=110_89_3824_2932&rotation=0"
+        },    
+        {
+            "name": "Daily News",
+            "page": "60",
+            "location": "New York, New York",
+            "date": "Wednesday, June 05, 1968",
+            "image": "https://img.newspapers.com/img/thumbnail/406618653/400/400/.jpg?cs=86400"
+        },
+        {
+            "name": "The Ithaca Journal",
+            "page": "28",
+            "location": "Ithaca, New York",
+            "date": "Friday, May 26, 1989",
+            "image": "https://img.newspapers.com/img/thumbnail/257072021/400/400/.jpg?cs=86400"
+        },
+        {
+            "name": "Citizen Register",
+            "page": "56",
+            "location": "Elmira, New York",
+            "date": "Sunday, May 28, 1989",
+            "image": "https://img.newspapers.com/img/thumbnail/905755648/400/400/.jpg?cs=86400"
+        },
+        {
+            "name": "Newsday (Suffolk Edition)",
+            "page": "123",
+            "location": "Melville, New York",
+            "date": "Friday, April 30, 1971",
+            "image": "https://img.newspapers.com/img/thumbnail/719261626/400/400/.jpg?cs=86400"
+        },
+        {
+            "name": "The Ithaca Journal",
+            "page": "14",
+            "location": "Ithaca, New York",
+            "date": "Wednesday, May 05, 1971",
+            "image": "https://img.newspapers.com/img/img?institutionId=0&user=13497765&id=255246685&clippingId=118282495&width=557&height=1987&crop=254_2839_1240_4506&rotation=0"
+        },
+        {
+            "name": "Poughkeepsie Journal",
+            "page": "A4",
+            "location": "Poughkeepsie, New York",
+            "date": "Thursday, February 01, 2018",
+            "image": "https://img.newspapers.com/img/img?institutionId=0&user=13497765&id=382763506&clippingId=118282598&width=557&height=526&crop=76_6_3422_3294&rotation=0"
+        },
+        {
+            "name": "Newsday (Nassau Edition)",
+            "page": "123",
+            "location": "Hempstead, New York",
+            "date": "Friday, April 30, 1971",
+            "image": "https://img.newspapers.com/img/img?institutionId=0&user=13497765&id=714386140&clippingId=118282652&width=557&height=690&crop=0_14_3738_4718&rotation=0"
+        }
+    ]
+}
